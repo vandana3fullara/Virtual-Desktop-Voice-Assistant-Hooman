@@ -1,4 +1,4 @@
-# Virtual Desktop Voice Assistant -Hooman | Python Project
+# Virtual Desktop Voice Assistant - Hooman | Python Project
 
 - **Developed** a virtual desktop voice assistant using **Python & VS Code Editor**.
 - **A Virtual Desktop Voice Assistant: - HOOMAN** is an **Application Program** that understands **Natural Language Voice**
